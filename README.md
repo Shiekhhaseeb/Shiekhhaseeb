@@ -10,7 +10,7 @@
 ---
 
 ## 🌌 About Me
-💻 Front-End Developer passionate about creating **modern UIs**  
+💻 Front-End Developer passionate about creating **modern UI**  
 🐍 Also love solving problems with **Python**  
 ⚽ Football & 🏏 Cricket fuel my energy  
 🚀 Learning something **new every day**  
